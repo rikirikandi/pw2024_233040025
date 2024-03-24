@@ -15,7 +15,7 @@ $hardware = ["Motherboard", "Processor", "Hard disk", "Pc coller", "VGA Card", "
    <?php foreach($hardware as $h ) : ?>
         <li><?= $h; ?></li>
         <?php endforeach; ?>
-</ol>
+    </ol>
 
    <h3>Macam-macam Perangkat keras komputer Baru</h3>
    
@@ -27,8 +27,7 @@ $hardware = ["Motherboard", "Processor", "Hard disk", "Pc coller", "VGA Card", "
         <li><?= $h;?></li>
         <?php endforeach; ?>
     
-    
-</ol>
+    </ol>
 
 
 </body>
